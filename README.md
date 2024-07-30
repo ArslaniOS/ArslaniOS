@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Arslan👋
 
+* 📱  Want to collaborate or have questions? Reach out to me! [here](https://www.linkedin.com/in/arslan-nadeem-400907169/)
+  
+- ✨ Passionate about UI/UX Design"
+
+- 📫 For freelance work inquiries, do reach out [here](arslan.iosdev@gmail.com):)
+  
+- 🌱 Crafting seamless user experiences and innovative solutions—one line of code at a time.
 <!--
 **ArslaniOS/ArslaniOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
